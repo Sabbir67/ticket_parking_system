@@ -1,0 +1,10 @@
+Database Name : park_a_ticket
+
+install composer
+
+to cmd
+** composer update
+
+-> php artisan key:generate
+
+-> php artisan serve
